@@ -2,7 +2,7 @@
 I’m a software developer with 5+ years of experience, currently majoring in Computer Science at UC Berkeley. My experience focuses on AI research, distributed systems, and building scalable full-stack applications. I am currently conducting AI research at the Abbasi Lab (a UCSF neuroscience lab) and serving as a software engineer for the United Nations. Previously, I have done work at Caltech, Adobe, and  several other early-stage tech start-ups. Beyond internships, I’ve led several successful ventures, including an EdTech startup with 11.5k users, and a five-figure custom-clothing business. I’ve also published and presented research at top conferences and earned USA Computing Olympiad Gold—placing me among the top competitive programmers in the nation. I thrive on solving challenging problems and designing systems that make a lasting impact. Let’s connect and build something meaningful!
 
 
-## Socials:
+# Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@ethanvarghese8) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ethanvarghese) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@ethan_joby75823) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ethanv@berkeley.edu) 
 
 # Tech Stack:
