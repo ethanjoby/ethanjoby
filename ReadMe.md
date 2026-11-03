@@ -1,5 +1,5 @@
 # About Me:
-I’m a software developer with 5+ years of experience, currently majoring in Computer Science at UC Berkeley. My experience focuses on AI research, distributed systems, and building scalable full-stack applications. I am currently conducting AI research at the Abbasi Lab (a UCSF neuroscience lab) and serving as a software engineer for the United Nations. Previously, I have done work at Caltech, Adobe, and  several other early-stage tech start-ups. Beyond internships, I’ve led several successful ventures, including an EdTech startup with 11.5k users, and a five-figure custom-clothing business. I’ve also published and presented research at top conferences and earned USA Computing Olympiad Gold—placing me among the top competitive programmers in the nation. I thrive on solving challenging problems and designing systems that make a lasting impact. Let’s connect and build something meaningful!
+I love solving really cool problems! Feel free to reach out to me at ethanv@berkeley.edu if you're interested in chatting!
 
 
 # Socials:
